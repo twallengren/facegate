@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+face_recognition
+numpy
